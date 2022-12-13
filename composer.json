@@ -1,0 +1,14 @@
+{
+  "name": "day-9/day-9",
+  "type": "project",
+  "description": "new project",
+  "keywords": [],
+  "license": " ",
+  "require": {},
+  "require-dev": {},
+  "autoload": {
+    "psr-4": {
+
+    }
+  }
+}
